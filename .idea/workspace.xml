@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46694a61-a6eb-4772-9cf5-6f8ceb11e0e2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" afterPath="$PROJECT_DIR$/.idea/libraries/meteor_packages_auto_import_browser.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textcircle.html" afterPath="$PROJECT_DIR$/textcircle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/textcircle.js" afterPath="$PROJECT_DIR$/textcircle.js" />
-    </list>
+    <list default="true" id="46694a61-a6eb-4772-9cf5-6f8ceb11e0e2" name="Default" comment="" />
     <ignored path="textcircle.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -289,12 +282,12 @@
       <option name="number" value="Default" />
       <updated>1450077705177</updated>
       <workItem from="1450077706813" duration="14417000" />
-      <workItem from="1450112319943" duration="144000" />
+      <workItem from="1450112319943" duration="303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14561000" />
+    <option name="totallyTimeSpent" value="14720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="924" y="447" width="996" height="714" extended-state="0" />
