@@ -19,7 +19,7 @@ if (Meteor.isClient) {
                     //console.log(cm_editor.getValue());
                     $("#viewer_iframe").contents().find("html").html(cm_editor.getValue());
                 });
-                console.log(editor);
+                //console.log(editor);
             }
         }
     });
